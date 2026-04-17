@@ -9,9 +9,4 @@
 - **Forecast**: 統計的線形回帰とボラティリティに基づいた10日間トレンド予測。
 - **Backtest**: 移動平均交差（MA Crossover）戦略のシミュレーションと市場比較。
 
-##  インストールと実行
 
-1. **レポジトリをクローン:**
-   ```bash
-   git clone [https://github.com/あなたのユーザー名/extreme-market-intelligence.git](https://github.com/あなたのユーザー名/extreme-market-intelligence.git)
-   cd extreme-market-intelligence
